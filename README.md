@@ -2,7 +2,7 @@
 
 **This script generates a GUI window to control a Discord Bot in Powershell.**
 
-![livebot](https://github.com/user-attachments/assets/e062624a-7f8b-4e09-a2c3-1a2ec53b2c9a)
+![DCcontrol](https://github.com/user-attachments/assets/34422140-bd52-42f0-8803-1d44e1f107a6)
 
 **FEATURES**
 
